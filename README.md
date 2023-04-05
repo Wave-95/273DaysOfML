@@ -5,7 +5,11 @@ Taking a fundamental and math-intensive approach to better understand the increa
 ---
 
 ### [Math] [Limits & Continuity](https://medium.com/@wu.victor.95/limit-of-a-function-a1ecf9dad559)
+### [Math] [Differentiation](https://medium.com/@wu.victor.95/differentiation-330b57c43a68)
 
 ---
 
-## Challenges & Projects
+## Application
+---
+
+### [Challenge] TBD
