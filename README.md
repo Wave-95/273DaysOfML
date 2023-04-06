@@ -5,6 +5,7 @@ Taking a fundamental and math-intensive approach to better understand the increa
 
 #### [Math] [Calculus] [Limits & Continuity](https://medium.com/@wu.victor.95/limit-of-a-function-a1ecf9dad559)
 #### [Math] [Calculus] [Differentiation](https://medium.com/@wu.victor.95/differentiation-330b57c43a68)
+#### [Math] [Calculus] [Min, Max, Optimization](https://medium.com/@wu.victor.95/derivatives-in-context-2e8c0b1f1f16)
 
 ## Application
 
