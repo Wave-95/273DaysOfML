@@ -7,6 +7,7 @@ Taking a fundamental and math-intensive approach to better understand the increa
 #### [Math] [Calculus] [Differentiation](https://medium.com/@wu.victor.95/differentiation-330b57c43a68)
 #### [Math] [Calculus] [Min, Max, Optimization](https://medium.com/@wu.victor.95/derivatives-in-context-2e8c0b1f1f16)
 #### [Math] [Calculus] [Integral Calculus](https://medium.com/@wu.victor.95/integral-calculus-507b5ce1f6a0)
+#### [Math] [Calculus] [Parametric Equations, Polar Coordinates, & Vector Functions](https://medium.com/@wu.victor.95/parametric-equations-polar-coordinates-vector-valued-functions-744af822f652)
 #### [Statistics] [Algorithm] [Linear Regression]
 
 ## Application
